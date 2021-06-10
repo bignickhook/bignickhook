@@ -3,7 +3,7 @@
 - I'm a Systems Engineer at one of the big :bank:s
 - 👀 I’m interested in Kubernetes, Ansible, Ansible Tower, Hadoop and Redis
 - 🌱 I’m currently learning OpenShift and Redis
-- I'm a :us: living in :jp:
+- I'm an :us: living in :jp:
 
 
 <!---
